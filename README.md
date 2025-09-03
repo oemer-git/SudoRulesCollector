@@ -29,6 +29,7 @@ Host host-name-wildcard* !*.testenv.of.some.company.com
 
 # Usage and Example
 run `$ ./SudoRulesCollector.sh`
+
 Output:
 ```
 _______________________________________________
