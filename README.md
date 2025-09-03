@@ -6,7 +6,7 @@
 - It will automatically check sudo rules for every found user, running automatically through every host in scope with SSH
 - It will accept every SSH-fingerprint automatically, if the host is unkown
 - It will supress users who dont have permissions to run sudo, which will help to keep the output clean and efficient
-- It will write all sudo rules for users per host to the `sudo-rules.txt` file.
+- It will write all sudo rules for users per host to `sudo-rules.txt`.
 - It will write all unreachable hosts to `timeout.txt`.
 - It will save your time ;)
 
