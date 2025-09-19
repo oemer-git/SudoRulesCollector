@@ -27,7 +27,7 @@ Host host-name-wildcard* !*.testenv.of.some.company.com
         ProxyJump jumphost
 ```
 
-# Usage and Example
+# Usage and example
 run `$ ./SudoRulesCollector.sh`
 
 Output:
@@ -53,3 +53,6 @@ User ZZZ may run the following commands on HOST02:
 
 [...]
 ```
+
+# Logical flow
+<img width="432" height="430" alt="SudoRulesCollector drawio" src="https://github.com/user-attachments/assets/d588368b-c24f-4d39-83bb-26a803a63733" />
