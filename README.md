@@ -30,7 +30,7 @@ Host host-name-wildcard* !*.testenv.of.some.company.com
 # Usage and example
 run `$ ./SudoRulesCollector.sh`
 
-Output:
+Output in `sudo-rules.txt`:
 ```
 _______________________________________________
 
