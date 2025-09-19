@@ -11,7 +11,7 @@
 - It will save your time ;)
 
 # Tweak it your way
-- Since there are many (technical) users like `daemon`, `ftp`, etc. on linux systems you dont want to check, you can customize the the ignore-list to your own needs 
+- Since there are many (technical) users like `daemon`, `ftp`, etc. on linux systems you dont want to check, you can customize the ignore-list to your own needs 
 
 # Prerequisites
 - <ins>sudo permission</ins> on targets
